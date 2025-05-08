@@ -1,0 +1,1 @@
+URL = 'https://github.com/plotly/datasets/blob/master/titanic.csv?raw=true'
